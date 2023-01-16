@@ -42,7 +42,7 @@
             <div class="comunidad_imagenes">
                 <div class="integrantes_niños">
                     <div class="img"><img src="imagenes/chico.jpg" alt=""></div>
-                    <p>Lorem ipsum, dolor sit amet consectetur <br> adipisicing elit. Iste quo, fugit, molestias <br> nisi velit id illo aspernatur, nam ipsum <br> atque sunt. Accusamus itaque quod ipsa <br> fugit. Unde veritatis provident delectus.</p>
+                    <p>Lorem ipsum, dolor sit amet consectetur Nico<br> adipisicing elit. Iste quo, fugit, molestias <br> nisi velit id illo aspernatur, nam ipsum <br> atque sunt. Accusamus itaque quod ipsa <br> fugit. Unde veritatis provident delectus.</p>
                 </div>
                 <div class="integrantes_adultos">
                     <div class="img"><img src="imagenes/hombre.jpg" alt=""></div>
